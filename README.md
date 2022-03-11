@@ -1,20 +1,18 @@
 # pwn-journey
-My exploits journey
 
-### Let's go!
-
-Hey there!
-Here I document my journey of learning reversing and exploitations!
-This is a skill I've been wanting to learn for a long time :)
+Hey there!  
+Here I document my journey of learning reversing and exploitations!  
+This is a skill I've been wanting to learn for a long time :)  
 
 ### Disclaimer:
-- I have knowledge in Python, C, CPP, Linux and a little bit of assembly.
-- In order to learn memory corruption and binary exploitation these are necessary
+- I have knowledge in Python, C, CPP, Linux and basic assembly.
+- In order to learn memory corruption and binary exploitation these are necessary skills
 - I'm no professional, just a boi trying to learn
-- I'm a loser in pwnable, this is why is tarted from scratch.
 - My journey may be different than yours!
-- All of these exercises have been done on Linux Mint 
 
+### Tools:
+- Machine: Linux Mint (Debian) x64
+- gdb + gef extenstion / IDA
 
 ## Step One: Protostar Exploit Exercises!
 Link: https://exploit.education/protostar/  
